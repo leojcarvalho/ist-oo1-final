@@ -1,0 +1,5 @@
+Jose;jose@uol.com.br;1234;
+Maria;maria@uol.com.br;5678;
+Paulo;paulo@uol.com.br;1122;
+Joao;joao@uol.com.br;3344;
+Iris;iris@uol.com.br;9988;
